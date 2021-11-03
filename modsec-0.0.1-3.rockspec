@@ -1,5 +1,5 @@
 package = "modsec"
-version = "0.0.1-3"
+version = "0.0.1-4"
 source = {
   url = "git+https://git@github.com/pr4u4t/ModSec-lighty-lua.git"
 }
@@ -10,6 +10,6 @@ description = {
 build = {
   type = "builtin",
   modules = {
-    proto = "modsec.lua"
+    modsec = "modsec.lua"
   }
 }
