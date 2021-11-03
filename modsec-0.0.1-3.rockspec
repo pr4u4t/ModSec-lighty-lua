@@ -1,5 +1,5 @@
 package = "modsec"
-version = "0.0.1-1"
+version = "0.0.1-3"
 source = {
   url = "git+https://git@github.com/pr4u4t/ModSec-lighty-lua.git"
 }
